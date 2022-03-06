@@ -53,3 +53,13 @@ ul,ol{
     font-size: 15px;
     font-weight: 400;
 }
+.bobur_img{
+    max-width: 500px;
+}
+.bobur_bottom{
+    display: flex;
+    align-items: center;
+}
+.bobur h1{
+    text-align: center;
+}
