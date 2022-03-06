@@ -53,3 +53,21 @@ ul,ol{
     font-size: 15px;
     font-weight: 400;
 }
+
+
+.Mirxislat{
+    background-color: yellow;
+    padding: 50px;
+}
+
+.Mirxislat__inner{
+    color: aqua;
+    font-size: 60px;
+    text-align: center;
+}
+.Tashkent__img{
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+}
