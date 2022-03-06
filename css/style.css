@@ -53,6 +53,7 @@ ul,ol{
     font-size: 15px;
     font-weight: 400;
 }
+
 .animals{
     background-color: antiquewhite;
 }
@@ -73,4 +74,15 @@ ul,ol{
     justify-content: center;
     align-items: center;
     color: grey;
+=======
+.bobur_img{
+    max-width: 500px;
+}
+.bobur_bottom{
+    display: flex;
+    align-items: center;
+}
+.bobur h1{
+    text-align: center;
+
 }
