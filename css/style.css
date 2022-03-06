@@ -53,3 +53,24 @@ ul,ol{
     font-size: 15px;
     font-weight: 400;
 }
+.animals{
+    background-color: antiquewhite;
+}
+.animal__title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 90px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.animal__img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.animal__text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: grey;
+}
