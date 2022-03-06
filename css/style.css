@@ -39,6 +39,25 @@ ul,ol{
     font-weight: 400;
     font-size: 20px;
 }
+.siddiq{
+    background-color: aquamarine;
+}
+.ll{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   gap: 30px;
+
+}
+.title{
+    font-size: 30px;
+    font-weight: 700;
+    
+}
+.title__text{
+    font-size: 25px;
+    font-weight: 500;
+}
 .footer{
     background-color: brown;
     padding: 20px 0;
@@ -70,4 +89,40 @@ ul,ol{
     gap: 50px;
     justify-content: center;
     align-items: center;
+=======
+.Rukhsor{
+    width: 100%;
+    height: 100%;
+    background: url(../img/2.jpg) no-repeat center/cover;
+
+.animals{
+    background-color: antiquewhite;
+}
+.animal__title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 90px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.animal__img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.animal__text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: grey;
+.bobur_img{
+    max-width: 500px;
+}
+.bobur_bottom{
+    display: flex;
+    align-items: center;
+}
+.bobur h1{
+    text-align: center;
+
 }
